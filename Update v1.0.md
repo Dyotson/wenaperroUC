@@ -3,6 +3,7 @@
 ## CHANGELOG
 
 - Muchos plugins reemplazados
+- ClearLagg eliminado
 - El comando /spawn fue eliminado
 - NINGUN comando puede ejecutarse en batalla
 - Nuevos permisos
