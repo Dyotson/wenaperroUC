@@ -18,3 +18,4 @@
 - Comando /tps y /ping permiten ver el rendimiento del server
 - Nuevo diseño de menu tab
 - Nuevo MOTD
+- Colision de jugadores eliminada
